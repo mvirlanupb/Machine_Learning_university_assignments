@@ -1,1 +1,2 @@
-The csv files and the assignments descriptions belong to AIMAS team from the National Polytechnic Universiy of Science and Technology, Bucharest, Romania
+The csv files fot the first part of the assignment and the assignments descriptions belong to AIMAS team from the National Polytechnic Universiy of Science and Technology, Bucharest, Romania.
+For the second part, the csv files are from this kaggle dataset https://www.kaggle.com/datasets/shayanfazeli/heartbeat.
